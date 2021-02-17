@@ -4,9 +4,10 @@
 ## ✈️ Tecnologias
 - HTML
 - CSS
+- JavaScript
 
 ## 🖥️ Resultado
 <div align="center">
-  <img alt="Content Placeholder" src="" width="450px">
+  <img alt="Content Placeholder" src="https://raw.githubusercontent.com/RuuuFF/content-placeholder/master/images/project.png" width="450px">
   <p>Confira o resultado: <a href="https://content-placeholder-ruuuff.netlify.app">content-placeholder-ruuuff</a></p>
 </div>
